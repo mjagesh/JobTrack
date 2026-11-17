@@ -1,0 +1,23 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+coverage/
+
+.env
+.env.*
+!.env.example
+
+*.log
+.DS_Store
+Thumbs.db
+
+.vercel/
+backend/test-jobs.ps1
+
+# Existing frontend Git metadata
+/frontend/.git
+/frontend/.git/
+
+/frontend-next-16.4.6/
